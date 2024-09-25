@@ -1,4 +1,6 @@
 # Demo
 This is my first git repository
 <br>
-Author --> Sahil Purbia
+Author --> Sahil Purbia 
+<br>
+Studying --> Computer Science
